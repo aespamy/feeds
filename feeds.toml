@@ -8,9 +8,29 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
 
+[vlive_aespa_news]
+title = "aespa ─ News"
+url = "https://www.vlive.tv/channel/97CCED/board/7387"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+
 [vlive_aespa_my]
-title = "aespa ─ Notice"
+title = "aespa ─ MY"
 url = "https://www.vlive.tv/channel/97CCED/board/7375"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+
+[vlive_aespa_letter]
+title = "aespa ─ aespa Letter"
+url = "https://www.vlive.tv/channel/97CCED/board/7553"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
