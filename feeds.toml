@@ -6,7 +6,7 @@ titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
-waitForSelector = "board_container"
+waitUntilSelector = "board_container"
 
 [vlive_aespa_news]
 title = "aespa ─ News"
