@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 08:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 09:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <link>https://www.vlive.tv/post/0-25391295</link>
             <guid>https://www.vlive.tv/post/0-25391295</guid>
             <pubDate>Tue, 14 Sep 2021 00:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[8 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[9 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210914_18/1631575898740VOwC7_JPEG/1631541938115.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,11 +230,19 @@
             <content:encoded><![CDATA[Mar 23]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/0-25403564</link>
+            <guid>https://www.vlive.tv/post/0-25403564</guid>
+            <pubDate>Tue, 14 Sep 2021 09:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[8 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210914_40/1631610064430Rn4Ic_JPEG/1631609527349.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser (aespa ─ MY)]]></title>
             <link>https://www.vlive.tv/post/1-25380230</link>
             <guid>https://www.vlive.tv/post/1-25380230</guid>
             <pubDate>Mon, 13 Sep 2021 09:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[23 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[Sep 13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_98/16315236517602wSDI_JPEG/1631519357661.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -251,7 +259,6 @@
             <guid>https://www.vlive.tv/post/0-24374083</guid>
             <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
             <content:encoded><![CDATA[Jul 28]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210728_67/1627477679697npnk8_JPEG/1627477605391.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📷 2021.07.19 #aespa #HUYA TV (aespa ─ MY)]]></title>
@@ -364,13 +371,6 @@
             <guid>https://www.vlive.tv/post/0-23037715</guid>
             <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
             <content:encoded><![CDATA[May 22]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[aespa] aespa practicing fan signing event📝 (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/1-23010957</link>
-            <guid>https://www.vlive.tv/post/1-23010957</guid>
-            <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[May 21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😽 (aespa ─ aespa Letter)]]></title>
