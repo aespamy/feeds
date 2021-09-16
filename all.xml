@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 14:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 15:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[Mar 23]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/1-25454958</link>
+            <guid>https://www.vlive.tv/post/1-25454958</guid>
+            <pubDate>Thu, 16 Sep 2021 15:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[10 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210916_261/16317982948472shif_JPEG/1631798015400.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa "Next Level (Habstrakt Remix)" MV (aespa ─ MY)]]></title>
             <link>https://www.vlive.tv/post/0-25403564</link>
             <guid>https://www.vlive.tv/post/0-25403564</guid>
@@ -251,7 +259,6 @@
             <guid>https://www.vlive.tv/post/0-24493218</guid>
             <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
             <content:encoded><![CDATA[Aug 2]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210802_119/1627909899639ENT5u_JPEG/1627908180920.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📷 2021.07.28 #aespa #HUYA TV (aespa ─ MY)]]></title>
@@ -364,13 +371,6 @@
             <guid>https://www.vlive.tv/post/1-23094495</guid>
             <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
             <content:encoded><![CDATA[May 25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📷 2021.05.22 #aespa #ONLINE 팬미팅 이벤트 (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/0-23037715</link>
-            <guid>https://www.vlive.tv/post/0-23037715</guid>
-            <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[May 22]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😽 (aespa ─ aespa Letter)]]></title>
