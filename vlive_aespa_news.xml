@@ -4,9 +4,17 @@
         <title>aespa ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 23:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 03:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📰 ‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제!]]></title>
+            <link>https://www.vlive.tv/post/0-25456787</link>
+            <guid>https://www.vlive.tv/post/0-25456787</guid>
+            <pubDate>Fri, 17 Sep 2021 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[2 hours ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210917_234/1631838668876d8wfa_JPEG/vlive_photo_1631788644134.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📰 ‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매!]]></title>
             <link>https://www.vlive.tv/post/0-25391295</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-23161174</guid>
             <pubDate>Fri, 13 Aug 2021 10:09:47 GMT</pubDate>
             <content:encoded><![CDATA[May 28]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net//20210528_20/1622160791188OwfQY_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📰 에스파 ‘Next Level’, 음악 방송 출격! '뮤직뱅크' 출연!]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-22741350</guid>
             <pubDate>Fri, 13 Aug 2021 10:09:47 GMT</pubDate>
             <content:encoded><![CDATA[May 5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📰 에스파, 美 피플지 ‘2021년 이머징 아티스트’ 선정!]]></title>
-            <link>https://www.vlive.tv/post/0-21980849</link>
-            <guid>https://www.vlive.tv/post/0-21980849</guid>
-            <pubDate>Fri, 13 Aug 2021 10:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[Mar 23]]></content:encoded>
         </item>
     </channel>
 </rss>
