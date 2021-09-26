@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 13:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 15:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,12 +230,42 @@
             <content:encoded><![CDATA[May 5]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GISELLE (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/1-25647625</link>
+            <guid>https://www.vlive.tv/post/1-25647625</guid>
+            <pubDate>Sun, 26 Sep 2021 15:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[10 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210926_98/1632663221481sDIxU_JPEG/1632662399031.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/0-25640634</link>
+            <guid>https://www.vlive.tv/post/0-25640634</guid>
+            <pubDate>Sun, 26 Sep 2021 15:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[10 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210926_142/16326634107823Pbar_JPEG/1632662664753.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - NINGNING (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/0-25640605</link>
+            <guid>https://www.vlive.tv/post/0-25640605</guid>
+            <pubDate>Sun, 26 Sep 2021 15:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[10 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210926_141/1632663367610STPla_JPEG/1632662622255.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - WINTER (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/0-25640578</link>
+            <guid>https://www.vlive.tv/post/0-25640578</guid>
+            <pubDate>Sun, 26 Sep 2021 15:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[10 minutes ago]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip (aespa ─ MY)]]></title>
             <link>https://www.vlive.tv/post/1-25454958</link>
             <guid>https://www.vlive.tv/post/1-25454958</guid>
             <pubDate>Thu, 16 Sep 2021 15:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Sep 16]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_261/16317982948472shif_JPEG/1631798015400.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa "Next Level (Habstrakt Remix)" MV (aespa ─ MY)]]></title>
@@ -243,7 +273,6 @@
             <guid>https://www.vlive.tv/post/0-25403564</guid>
             <pubDate>Tue, 14 Sep 2021 09:09:37 GMT</pubDate>
             <content:encoded><![CDATA[Sep 14]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210914_40/1631610064430Rn4Ic_JPEG/1631609527349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser (aespa ─ MY)]]></title>
@@ -251,7 +280,6 @@
             <guid>https://www.vlive.tv/post/1-25380230</guid>
             <pubDate>Mon, 13 Sep 2021 09:10:07 GMT</pubDate>
             <content:encoded><![CDATA[Sep 13]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210913_98/16315236517602wSDI_JPEG/1631519357661.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📷 2021.08.02 #aespa #HUYA TV (aespa ─ MY)]]></title>
@@ -343,34 +371,6 @@
             <guid>https://www.vlive.tv/post/1-23170155</guid>
             <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
             <content:encoded><![CDATA[May 28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📷 2021.05.28 #aespa #Next Level #🌙🦋❤️⭐️ (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/0-23162739</link>
-            <guid>https://www.vlive.tv/post/0-23162739</guid>
-            <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[May 28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa "Next Level" The Performance Stage #3 (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/1-23146707</link>
-            <guid>https://www.vlive.tv/post/1-23146707</guid>
-            <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[May 27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[You're ready to do well, right?😉 | aespa ‘Next Level’ Fan Chant Tutorial (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/1-23129567</link>
-            <guid>https://www.vlive.tv/post/1-23129567</guid>
-            <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[May 26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa "Next Level" The Performance Stage #2 (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/1-23094495</link>
-            <guid>https://www.vlive.tv/post/1-23094495</guid>
-            <pubDate>Mon, 23 Aug 2021 09:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[May 25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😽 (aespa ─ aespa Letter)]]></title>
