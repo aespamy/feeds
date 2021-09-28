@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 23:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 00:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,14 @@
             <content:encoded><![CDATA[Nov 16, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[📰 ‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최! (aespa ─ News)]]></title>
+            <link>https://www.vlive.tv/post/0-25665804</link>
+            <guid>https://www.vlive.tv/post/0-25665804</guid>
+            <pubDate>Tue, 28 Sep 2021 00:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[4 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210928_262/1632788939708Wg0P3_JPEG/1632788889253.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[📰 ‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제! (aespa ─ News)]]></title>
             <link>https://www.vlive.tv/post/0-25456787</link>
             <guid>https://www.vlive.tv/post/0-25456787</guid>
@@ -108,7 +116,6 @@
             <guid>https://www.vlive.tv/post/0-23604793</guid>
             <pubDate>Sat, 25 Sep 2021 09:08:58 GMT</pubDate>
             <content:encoded><![CDATA[Jun 19]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210619_285/1624066537246xkj4C_JPEG/1621167507171..jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📰 에스파, 오늘 ‘최강창민의 프리허그’ 게스트 출연! (aespa ─ News)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://www.vlive.tv/post/1-22761657</guid>
             <pubDate>Sat, 25 Sep 2021 09:08:58 GMT</pubDate>
             <content:encoded><![CDATA[May 7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📰 ‘글로벌 슈퍼 루키’ 에스파 컴백! 신곡 ‘Next Level’ 5월 17일 공개! (aespa ─ News)]]></title>
-            <link>https://www.vlive.tv/post/1-22741350</link>
-            <guid>https://www.vlive.tv/post/1-22741350</guid>
-            <pubDate>Sat, 25 Sep 2021 09:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[May 5]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GISELLE (aespa ─ MY)]]></title>
