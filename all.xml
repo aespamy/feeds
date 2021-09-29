@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 09:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 10:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 안내 (aespa ─ Notice)]]></title>
+            <link>https://vlive.tv/post/0-25688968</link>
+            <guid>https://vlive.tv/post/0-25688968</guid>
+            <pubDate>Wed, 29 Sep 2021 10:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[13 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20210929_183/1632909452167SGAB5_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📢 2021 DREAM CONCERT 현수막 신청 안내 (aespa ─ Notice)]]></title>
             <link>https://vlive.tv/post/0-23589343</link>
@@ -35,7 +43,6 @@
             <guid>https://vlive.tv/post/0-22932913</guid>
             <pubDate>Thu, 23 Sep 2021 23:09:39 GMT</pubDate>
             <content:encoded><![CDATA[May 17]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210710_88/1625888562663Kcnd5_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
         </item>
         <item>
             <title><![CDATA[📢 aespa 'Next Level' 음원 발매 기념 ONLINE FANMEETING EVENT 안내 (aespa ─ Notice)]]></title>
@@ -91,7 +98,7 @@
             <link>https://www.vlive.tv/post/1-25690040</link>
             <guid>https://www.vlive.tv/post/1-25690040</guid>
             <pubDate>Wed, 29 Sep 2021 02:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[8 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[9 hours ago]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📰 ‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최! (aespa ─ News)]]></title>
