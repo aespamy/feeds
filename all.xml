@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 14:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 15:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -236,6 +236,14 @@
             <content:encoded><![CDATA[May 9]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Savage' MV Teaser (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/0-25764072</link>
+            <guid>https://www.vlive.tv/post/0-25764072</guid>
+            <pubDate>Sun, 03 Oct 2021 15:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[9 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211003_133/1633270076152Scf6E_JPEG/1633265434575.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GISELLE (aespa ─ MY)]]></title>
             <link>https://www.vlive.tv/post/1-25647625</link>
             <guid>https://www.vlive.tv/post/1-25647625</guid>
@@ -257,7 +265,6 @@
             <guid>https://www.vlive.tv/post/0-25640605</guid>
             <pubDate>Wed, 29 Sep 2021 22:10:03 GMT</pubDate>
             <content:encoded><![CDATA[Sep 26]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210926_141/1632663367610STPla_JPEG/1632662622255.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - WINTER (aespa ─ MY)]]></title>
@@ -370,13 +377,6 @@
             <guid>https://www.vlive.tv/post/1-23201689</guid>
             <pubDate>Wed, 29 Sep 2021 22:10:03 GMT</pubDate>
             <content:encoded><![CDATA[May 30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📷 2021.05.28 #aespa #뮤직뱅크 #MusicBank (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/1-23170155</link>
-            <guid>https://www.vlive.tv/post/1-23170155</guid>
-            <pubDate>Wed, 29 Sep 2021 22:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[May 28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[😽 (aespa ─ aespa Letter)]]></title>
